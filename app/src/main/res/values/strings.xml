@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drywall Tally FB</string>
+    <string name="sign_in_cancelled">Sign In Cancelled</string>
+    <string name="no_internet_connection">Network Disconnected</string>
+    <string name="message_logged_in">You are logged in!!!</string>
+    <string name="message_logged_out">Logged Out!!</string>
+    <string name="title_activity_jobs">JobsActivity</string>
+</resources>

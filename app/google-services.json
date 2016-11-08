@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395940799308",
+    "firebase_url": "https://drywall-tally-fb.firebaseio.com",
+    "project_id": "drywall-tally-fb",
+    "storage_bucket": "drywall-tally-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395940799308:android:fac649c3090f49a9",
+        "android_client_info": {
+          "package_name": "com.austinnightingale.drywalltallyfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395940799308-hppi93nttcd6589t90a3rdgbsfdso6uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.austinnightingale.drywalltallyfb",
+            "certificate_hash": "EDDFCAE4F4FC1D71C9DDD7B3401766859899B936"
+          }
+        },
+        {
+          "client_id": "395940799308-tdqlgoo7ndab7dnou2ra652t4nn2pclh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ImHm2doDMMqXiuPBFm7bxrOouICH3V4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395940799308-tdqlgoo7ndab7dnou2ra652t4nn2pclh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
